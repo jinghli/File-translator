@@ -1,0 +1,9 @@
+[Overview]
+This script is a translator, which is using bing translator API. The main function is translate the file into English.
+
+
+[Requirement]
+1. Bing translator appID. You need apply it by yourself.
+2. Need 3rd lib charted. It can help to detect the file encoding.
+
+
